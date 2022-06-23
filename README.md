@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/dev_cory" target="blank"><img src="https://img.shields.io/twitter/follow/dev_cory?logo=twitter&style=for-the-badge" alt="dev_cory" /></a> </p>
 
-- 👷‍♂️ I’m currently working on [Our Schedule](https://github.com/cory-simpson-dev/ourschedule)
+- 👷‍♂️ I’m currently working on [Our List](https://github.com/cory-simpson-dev/our-list)
 
-- Lately I've been learning 🤯 about **Node, React, MongoDB**
+- Lately I've been learning about **Node, React, MongoDB**
 
-- Daily ladders are completed 👌 and pushed to [Codewars](https://github.com/cory-simpson-dev/codewars)
+- Daily challenges are completed 👌 and pushed to [Codewars](https://github.com/cory-simpson-dev/codewars)
 
 - My latest client 💰 project is [Fusion Metal Werx](https://github.com/cory-simpson-dev/client-fusionmetalwerx)
 
@@ -15,7 +15,7 @@
 
 - 📫 Reach me at **cory.simpson.dev@gmail.com**
 
-- Fun fact: **I woke up with a scorpion in my bed this morning 💀**
+- Fun fact: **Dungeons & Dragons was created in 1974 🤯**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
