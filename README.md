@@ -7,9 +7,9 @@
 
 - Lately I've been learning about **Node, React, MongoDB**
 
-- Daily challenges are completed 👌 and pushed to [Codewars](https://github.com/cory-simpson-dev/codewars)
+- Challenges are regularly completed 👌 and pushed to [Codewars](https://github.com/cory-simpson-dev/codewars)
 
-- My latest client 💰 project is [Fusion Metal Werx](https://github.com/cory-simpson-dev/client-fusionmetalwerx)
+- My latest client 💰 project is [Patriot Air Conditioning](https://github.com/cory-simpson-dev/client-pac)
 
 - Ask 🙋‍♂️ me about my **past, present or future 🚀**
 
