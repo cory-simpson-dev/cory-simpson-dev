@@ -1,21 +1,17 @@
 <h1 align="center">Howdy, I'm Cory 😁</h1>
-<h3 align="center">A software engineer from Las Vegas</h3>
+<h3 align="center">A software engineer open to a full-time position</h3>
 
-<p align="left"> <a href="https://twitter.com/dev_cory" target="blank"><img src="https://img.shields.io/twitter/follow/dev_cory?logo=twitter&style=for-the-badge" alt="dev_cory" /></a> </p>
+- 👷‍♂️ I’m currently working on a [Weekly Task Tracker](https://weekly-task-tracker.herokuapp.com/)
 
-- 👷‍♂️ I’m currently working on [Our List](https://github.com/cory-simpson-dev/our-list)
-
-- Lately I've been learning about **Node, React, MongoDB**
+- Lately I've been learning about **React, CSS Frameworks (Materialize, tailwind, bootstrap), and MVC architecture**
 
 - Challenges are regularly completed 👌 and pushed to [Codewars](https://github.com/cory-simpson-dev/codewars)
-
-- My latest client 💰 project is [Patriot Air Conditioning](https://github.com/cory-simpson-dev/client-pac)
 
 - Ask 🙋‍♂️ me about my **past, present or future 🚀**
 
 - 📫 Reach me at **cory.simpson.dev@gmail.com**
 
-- Fun fact: **Dungeons & Dragons was created in 1974 🤯**
+- Personal Goal: **Work in both New York and New Zealand as a software engineer 🤯**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,5 +25,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cory-simpson-dev&show_icons=true&locale=en&layout=compact" alt="cory-simpson-dev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cory-simpson-dev&" alt="cory-simpson-dev" /></p>
-
-# cory-simpson-dev
