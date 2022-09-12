@@ -1,11 +1,9 @@
 <h1 align="center">Howdy, I'm Cory 😁</h1>
 <h3 align="center">A software engineer open to a full-time position</h3>
 
-- 👷‍♂️ I’m currently working on a [Weekly Task Tracker](https://weekly-task-tracker.herokuapp.com/)
+- 👷‍♂️ I’m currently working on [Taste of the Town Reviews](https://totr-production.up.railway.app/)
 
 - Lately I've been learning about **React, CSS Frameworks (Materialize, tailwind, bootstrap), and MVC architecture**
-
-- Challenges are regularly completed 👌 and pushed to [Codewars](https://github.com/cory-simpson-dev/codewars)
 
 - Ask 🙋‍♂️ me about my **past, present or future 🚀**
 
