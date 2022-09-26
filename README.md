@@ -1,9 +1,9 @@
 <h1 align="center">Howdy, I'm Cory 😁</h1>
 <h3 align="center">A software engineer open to a full-time position</h3>
 
-- 👷‍♂️ I’m currently working on [Taste of the Town Reviews](https://totr-production.up.railway.app/)
+- 👷‍♂️ I’m currently working on a discussion website for rave-goers!
 
-- Lately I've been learning about **React, CSS Frameworks (Materialize, tailwind, bootstrap), and MVC architecture**
+- Lately I've been learning about **React, Redux and Tailwind**
 
 - Ask 🙋‍♂️ me about my **past, present or future 🚀**
 
