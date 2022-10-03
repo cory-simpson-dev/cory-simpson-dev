@@ -1,5 +1,5 @@
 <h1 align="center">Howdy, I'm Cory 😁</h1>
-<h3 align="center">A software engineer open to a full-time position</h3>
+<h3 align="center">A MERN-stack developer open to full-time opportunities</h3>
 
 - 👷‍♂️ I’m currently working on a discussion website for rave-goers!
 
