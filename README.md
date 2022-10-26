@@ -1,9 +1,9 @@
 <h1 align="center">Howdy, I'm Cory 😁</h1>
 <h3 align="center">A MERN-stack developer open to full-time opportunities</h3>
 
-- 👷‍♂️ I’m currently working on a discussion website for rave-goers!
+- 👷‍♂️ I’m currently working on too many projects to count!
 
-- Lately I've been learning about **React, Redux and Tailwind**
+- Lately I've been learning about **React, Redux and TypeScript**
 
 - Ask 🙋‍♂️ me about my **past, present or future 🚀**
 
